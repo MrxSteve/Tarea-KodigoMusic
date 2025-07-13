@@ -6,7 +6,7 @@ const Sidebar = () => (
         <nav className="flex flex-col gap-4">
         <Link to="/" className="hover:text-green-400">Inicio</Link>
         <Link to="/buscar" className="hover:text-green-400">Buscar</Link>
-        <Link to="/biblioteca" className="hover:text-green-400">Tu biblioteca</Link>
+        <Link to="/biblioteca" className="hover:text-green-400">Biblioteca</Link>
         <Link to="/sugerencia" className="hover:text-green-400">Sugerencia musical</Link>
         </nav>
     </aside>
